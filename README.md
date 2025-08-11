@@ -11,7 +11,7 @@ They are not:
 - An expression of responsible standards in terms of documentation, automated testing, or code quality
 - Intended to even make a lot of sense
 
-They are an expression of an interest in the history of computing; the still-relevant bare-bone, on-the-metal underpinnings of modern-day computing; and the strange but functional way in which one can combine those two.
+They are an expression of an interest in the history of computing; the still-relevant bare-bone, on-the-metal underpinnings of modern-day computing; and the strange but functional ways in which one can combine those two.
 Each of them has taught me new things, and in this rapidly changing world continuous learning is probably the most important thing of all.
 
 You can reach me at rbergen@xs4all.nl if you see anything that tickles your interest.
