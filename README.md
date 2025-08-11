@@ -1,6 +1,6 @@
 # Hi there!
 
-This is the probably mildly confusing collection of personal projects I have been and am working on in my spare time. 
+This is the probably mildly confusing collection of personal projects I (and some friends) have been and are working on in my spare time. 
 
 As a CTO, I work with technology every day. It's technology that's current (ML/GenAI/Agentic AI? Check.), repeatable and scalable (Infrastructure as Code, scalable and multi-region cloud infrastructure, CI/CD? Check.), reliable and secure (reviewed, tested, ISO27001 certified? Check.), cost-effective (containerized workloads, scheduled shutdowns, reserved capacity, FinOps monitored? Check.), etc.  
 That's what I do for a living, and that's what I take care of for my employer, with enthusiasm and curiosity.
